@@ -2,7 +2,7 @@
 
 
 
-The accampanied C++ file is a quiz in computer science answered in the console.
+The accompanied C++ file is a quiz in computer science answered in the console.
 
 
 
